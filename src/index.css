@@ -1,0 +1,21 @@
+.my-btn-bg{
+  background-color: #0E374B;
+  color: white;
+}
+.my-btn-bg:hover{
+  background-color: #0E374B;
+  color: white;
+}
+body{
+  background-color: #FAF9F6;
+}
+li{
+  list-style-type: none;
+}
+.my-btn{
+  background-color: grey;
+  border-radius: 20px;
+  border: none;
+  color: white;
+
+}
